@@ -1,4 +1,4 @@
-![I am badhon-mojumder](https://https://github.com/badhon-mojumder/badhon-mojumder/blob/main/code.png)
+![I am badhon-mojumder](https://github.com/badhon-mojumder/badhon-mojumder/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Badhon Mojumder</h1>
 <h3 align="center">Programmer | Web Designer | Web Developer | Speed Learner</h3>
