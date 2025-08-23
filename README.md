@@ -1,7 +1,7 @@
 ![I am badhon-mojumder](https://github.com/badhon-mojumder/badhon-mojumder/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Badhon Mojumder</h1>
-<h3 align="center">Programmer | Web Designer | Web Developer | Speed Learner</h3>
+<h3 align="center">Programmer | Developer | Speed Learner</h3>
 <h4 align="center">B.Sc in Competer Science And Engineering at North Western University</h4>
 
 <div align="center">
