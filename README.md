@@ -10,7 +10,7 @@
 
  Flutter Skills: C / C++ / Dart / Flutter / Block / ProVider / GetX / Firebase / REST APIs / Clean Architecture 
 
- Automation Skills: Make / Zapier / n8n / Langflow / LangChain / Lovable / Webhooks / APIs / OpenAI tools
+ Automation Skills: Make / Zapier / n8n / Langflow / LangChain / Lovable / Webhooks / APIs / OpenAI Tools
 
 </div>
 
@@ -52,7 +52,9 @@
 ![Zapier](https://img.shields.io/badge/Zapier-563D7C?style=for-the-badge&logo=zapier&logoColor=white)
 ![Langflow](https://img.shields.io/badge/Langflow-593D88?style=for-the-badge&logo=langflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-593D88?style=for-the-badge&logo=langchain&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-593D88?style=for-the-badge&logo=lovable&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-593D88?style=for-the-badge&logo=webhooks&logoColor=white)
+![OpenAI Tools](https://img.shields.io/badge/OpenAI_Tools-593D88?style=for-the-badge&logo=openai_tools&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-FF4154?style=for-the-badge&logo=android_studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
