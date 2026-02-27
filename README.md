@@ -1,24 +1,26 @@
 ![I am badhon-mojumder](https://github.com/badhon-mojumder/badhon-mojumder/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Badhon Mojumder</h1>
-<h3 align="center">Programmer | Flutter Developer | AI Automotion Expert |Speed Learner</h3>
+<h3 align="center">Programmer | Flutter Developer | AI Automation Expert | Speed Learner</h3>
 <h4 align="center">B.Sc in Competer Science And Engineering at North Western University</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=badhon-mojumder&color=red)
 
-Skills: C / C++ / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
+ Flutter Skills: C / C++ / Dart / Flutter / Block / ProVider / GetX / Firebase / REST APIs / Clean Architecture 
+
+ Automation Skills: Make / Zapier / n8n / Langflow / LangChain / Lovable / Webhooks / APIs / OpenAI tools
 
 </div>
 
 - 🔭 I’m currently learning Flutter App Development
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Firebase
 
 - 👨‍💻 All of my projects are available at [https://github.com/badhon-mojumder](https://github.com/badhon-mojumder)
 
-- 💬 Ask me about ** Flutter or AI Automotion **
+- 💬 Ask me about ** Flutter and AI Automation **
 
 - 📫 How to reach me **badhonmojumder.cse@gmail.com**
 
@@ -95,7 +97,7 @@ Skills: C / C++ / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="https://https://x.com/badhonmojumder0" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/badhon-mojumder/" target="_blank">
