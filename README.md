@@ -76,7 +76,7 @@
 <hr/>
 <br/>
 
-## Github Stats -
+## Github Status -
 
 <p align="center">
   <a href="https://github.com/badhon-mojumder">
