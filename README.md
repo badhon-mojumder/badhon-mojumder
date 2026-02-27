@@ -1,7 +1,7 @@
 ![I am badhon-mojumder](https://github.com/badhon-mojumder/badhon-mojumder/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Badhon Mojumder</h1>
-<h3 align="center">Programmer | Developer | Speed Learner</h3>
+<h3 align="center">Programmer | Flutter Developer | AI Automotion Expert |Speed Learner</h3>
 <h4 align="center">B.Sc in Competer Science And Engineering at North Western University</h4>
 
 <div align="center">
@@ -12,13 +12,13 @@ Skills: C / C++ / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning Web Development
+- 🔭 I’m currently learning Flutter App Development
 
-- 🌱 I’m currently learning React , C++
+- 🌱 I’m currently learning Flutter
 
 - 👨‍💻 All of my projects are available at [https://github.com/badhon-mojumder](https://github.com/badhon-mojumder)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about ** Flutter or AI Automotion **
 
 - 📫 How to reach me **badhonmojumder.cse@gmail.com**
 
@@ -37,7 +37,7 @@ Skills: C / C++ / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Flutter](https://img.shields.io/badge/Flutter-F0DB4F?style=for-the-badge&labelColor=black&logo=flutter&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
