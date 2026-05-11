@@ -26,15 +26,19 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.facebook.com/badhonmojumder.cse?mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Badhon Mojumder" height="30" width="40" /></a>
-  <a href="https://www.x.com/badhonmojumder0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/badhon-mojumder-2b952a382/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badhon-mojumder" height="30" width="40" /></a>
-  <a href="https://codepen.io/badhon-mojumder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="badhon-mojumder" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/badhon_mojumder/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-  <a href="https://dribbble.com/badhonmojumder-cse" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="badhon-mojumder" height="30" width="40" /></a>
-  <a href="https://www.behance.net/badhonmojumder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="badhon-mojumder" height="30" width="40" /></a>
-</p>
+<table align="left">
+  <tr>
+    <td><a href="https://www.facebook.com/badhonmojumder.cse?mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Badhon Mojumder" height="30" width="40" /></a></td>
+    <td><a href="https://www.x.com/badhonmojumder0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/badhon-mojumder-2b952a382/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badhon-mojumder" height="30" width="40" /></a></td>
+    <td><a href="https://codepen.io/badhon-mojumder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="badhon-mojumder" height="30" width="40" /></a></td>
+    <td><a href="https://www.instagram.com/badhon_mojumder/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a></td>
+    <td><a href="https://dribbble.com/badhonmojumder-cse" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="badhon-mojumder" height="30" width="40" /></a></td>
+    <td><a href="https://www.behance.net/badhonmojumder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="badhon-mojumder" height="30" width="40" /></a></td>
+  </tr>
+</table>
+<br clear="both"> 
+
 ## Use To Code
 
 ![Dart](https://img.shields.io/badge/Dart-F0DB4F?style=for-the-badge&labelColor=black&logo=dart&logoColor=F0DB4F)
