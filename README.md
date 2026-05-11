@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table align="left">
+<table align="center">
   <tr>
     <td><a href="https://www.facebook.com/badhonmojumder.cse?mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Badhon Mojumder" height="30" width="40" /></a></td>
     <td><a href="https://www.x.com/badhonmojumder0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a></td>
